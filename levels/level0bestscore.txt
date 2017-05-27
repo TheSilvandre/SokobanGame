@@ -1,0 +1,25 @@
+#
+1 place
+20 steps
+3.336 seconds
+Saramago player
+#
+2 place
+24 steps
+4.547 seconds
+Saramago player
+#
+3 place
+24 steps
+6.415 seconds
+Player player
+#
+4 place
+26 steps
+5.114 seconds
+Saramago player
+#
+5 place
+26 steps
+5.89 seconds
+Silva player
