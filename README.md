@@ -5,10 +5,10 @@ The files present in the gui and the utils packages were not created by us.
 
 
 
-- Controls:
+Controls:
 
-Arrow Keys - Move
+- Arrow Keys - Move
 
-'+' '-' or ',' '.' - Change level
+- '+' '-' or ',' '.' - Change level
 
-Esc - Reset level
+- Esc - Reset level
